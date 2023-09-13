@@ -26,15 +26,16 @@
             <div class="col-xxl-5 col-xxl-5 col-lg-5 col-md-8 col-sm-12 col-12">
                 <h5 class="text-secondary fw-bold fs-4">Tin tức</h5>
                 <div class="blog mb-3">
-                    <p class="mb-0 fs-6">It has survived not only centuries, that rela but also the all this among lea.</p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim consequuntur iure eius sed adipisci sequi officia, velit reiciendis ipsa magnam quidem inventore optio impedit voluptate illo quas in itaque debitis?
+                    <!-- <p class="mb-0 fs-6">It has survived not only centuries, that rela but also the all this among lea.</p>
                     <p class="mt-2 fs-6">16 Mar,2021</p>
                 </div>
                 <div class="blog mb-3">
                     <p class="mb-0 fs-6">It has survived not only centuries, that rela but also the all this among lea.</p>
-                    <p class="mt-2 fs-6">16 Mar,2021</p>
+                    <p class="mt-2 fs-6">16 Mar,2021</p> -->
                 </div>
                 <div class="blog">
-                    <a href="#" class="text-decoration-none text-primary text-capitalize fs-6">read more</a>
+                    <a href="#" class="text-decoration-none text-primary text-capitalize fs-6">Đọc thêm</a>
                 </div>
             </div>
         </div>
